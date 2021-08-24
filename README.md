@@ -1,1 +1,2 @@
-# new-portfolio-2021
+Simple resume with tailwind css
+-----------------
